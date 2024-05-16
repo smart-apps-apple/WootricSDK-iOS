@@ -25,6 +25,7 @@ let package = Package(
                 .process("IBMPlexSans-Italic.ttf"),
                 .process("IBMPlexSans-Medium.ttf"),
                 .process("IBMPlexSans-Regular.ttf"),
+                .process("PrivacyInfo.xcprivacy")
             ],
             publicHeadersPath: "Public",
             cSettings: [
