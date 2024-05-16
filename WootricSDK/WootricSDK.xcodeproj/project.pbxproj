@@ -338,14 +338,6 @@
 			path = Public;
 			sourceTree = "<group>";
 		};
-		A2D3D2692BF66BF700EE64DF /* Resource */ = {
-			isa = PBXGroup;
-			children = (
-				A2D3D2652BF6612D00EE64DF /* PrivacyInfo.xcprivacy */,
-			);
-			name = Resource;
-			sourceTree = "<group>";
-		};
 		B260ECE31BD8D7F200E29CD5 /* SimpleConstraints */ = {
 			isa = PBXGroup;
 			children = (
@@ -529,7 +521,7 @@
 		B2DC6F041B81E6F900F599B3 /* WootricSDK */ = {
 			isa = PBXGroup;
 			children = (
-				A2D3D2692BF66BF700EE64DF /* Resource */,
+				A2D3D2652BF6612D00EE64DF /* PrivacyInfo.xcprivacy */,
 				3E52A2C128BECE4A0075BD89 /* Public */,
 				B2C9405D1BA0853700482494 /* Views */,
 				B2ADF6521B9DBD73005403AC /* Utils */,
