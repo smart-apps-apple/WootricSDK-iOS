@@ -190,6 +190,7 @@
 		7E6BA6C424297B9600D27EE8 /* WTREventListOperation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WTREventListOperation.m; sourceTree = "<group>"; };
 		7E74E3341C8E986F00BCB84F /* NSString+FontAwesome.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+FontAwesome.h"; sourceTree = "<group>"; };
 		7E74E3351C8E987000BCB84F /* NSString+FontAwesome.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+FontAwesome.m"; sourceTree = "<group>"; };
+		A2D3D2652BF6612D00EE64DF /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		B2102A2B1BB59ABC0025DABC /* WTRDefaults.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTRDefaults.h; sourceTree = "<group>"; };
 		B2102A2C1BB59ABC0025DABC /* WTRDefaults.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTRDefaults.m; sourceTree = "<group>"; };
 		B2102A2F1BB59ACE0025DABC /* WTRCustomMessages.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTRCustomMessages.h; sourceTree = "<group>"; };
@@ -534,6 +535,7 @@
 				B2DC6F321B820E6B00F599B3 /* WTRApiClient.m */,
 				B2D9FCDE1BF9F18E00479F9F /* SEGWootric.m */,
 				B2DC6F051B81E6F900F599B3 /* Supporting Files */,
+				A2D3D2652BF6612D00EE64DF /* PrivacyInfo.xcprivacy */,
 			);
 			path = WootricSDK;
 			sourceTree = "<group>";
